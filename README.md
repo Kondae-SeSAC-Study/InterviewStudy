@@ -14,4 +14,4 @@ https://github.com/JeaSungLEE/iOSInterviewquestions 를 참고해서 진행 예�
 
 | 일시 | 내용 | 참여자 | 링크 |
 | --- | --- | --- | --- |
-| 22.03.14 | 진행 준비 및 다음 질문 준비 | 여종, 동현, 상원, 찬후| | 
+| 22.03.14 | 진행 준비 및 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/2) | 
