@@ -14,9 +14,11 @@ https://github.com/Kondae-SeSAC-Study/tech-interview-for-developer
 
 | 일시 | 내용 | 참여자 | 링크 |
 | --- | --- | --- | --- |
-| 22.03.14 | 진행 준비 및 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/2)|
-| 22.03.15 | 온라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/2)|
-| 22.03.17 | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/3)|
-| 22.03.18 | 오프라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/3)|
-
+| 22.03.14(월) | 진행 준비 및 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/2)|
+| 22.03.15(화) | 온라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/2)|
+| 22.03.17(목) | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/3)|
+| 22.03.18(금) | 오프라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/3)|
+| 22.03.20(일) | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/4)|
+| 22.03.21(월) | 온라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/4)|
+| 22.03.22(화) | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/5)|
 
