@@ -21,4 +21,5 @@ https://github.com/Kondae-SeSAC-Study/tech-interview-for-developer
 | 22.03.20(일) | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/4)|
 | 22.03.21(월) | 온라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/4)|
 | 22.03.22(화) | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/5)|
+| 22.03.23(수) | 온라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/5)|
 
