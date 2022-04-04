@@ -1,8 +1,6 @@
 # InterviewStudy
 면접스터디 레포
 
-https://github.com/JeaSungLEE/iOSInterviewquestions 를 참고해서 진행 예정
-
 먼저, CS에 대한 내용이 너무 부족하다고 판단해서 네트워크에 대한 내용 공부하기로 함
 https://github.com/Kondae-SeSAC-Study/tech-interview-for-developer
 
@@ -29,4 +27,5 @@ https://github.com/Kondae-SeSAC-Study/tech-interview-for-developer
 | 22.04.01(금) | 다음 질문 준비 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/8)|
 | 22.04.03(일) | 온라인 모임 | 여종, 동현, 상원, 찬후| [이슈로 이동](https://github.com/Kondae-SeSAC-Study/InterviewStudy/issues/8)|
 
-
+최종 면접 등의 일정으로 이번주는 휴식 예정
+앞으로 어떻게 할지 의논해서 CS나 iOS에 대한 스터디 진행 예정
